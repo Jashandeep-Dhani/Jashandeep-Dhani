@@ -1,4 +1,4 @@
-##👋 Hi, I'm Jashandeep Singh!
+## 👋 Hi, I'm Jashandeep Singh!
 🚀 MERN Stack Developer | AI & Data Science Enthusiast
 
 ## 💫 About Me
